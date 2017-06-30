@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestpaySDK</string>
+    <string name="merchant_id">商户号：</string>
+    <string name="merchant_pwd">商户密码：</string>
+    <string name="amt">金额，单位（元）：</string>
+    <string name="account">翼支付账号：</string>
+    <string name="business_type">业务类型：</string>
+    <string name="pay">下单支付</string>
+</resources>
